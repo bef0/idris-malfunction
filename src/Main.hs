@@ -5,6 +5,7 @@ import Idris.Core.TT
 import Idris.AbsSyntax
 import Idris.ElabDecls
 import Idris.REPL
+import Idris.Options
 
 import IRTS.Compiler
 import IRTS.CodegenMalfunction
